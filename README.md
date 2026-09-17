@@ -15,3 +15,8 @@ Idei első bemutató repozitóriumam.
 ## Tanterem 
 * 4-es terem
 * 8-as terem 
+
+## Kezdés 
+* 1. Hétfő 14:00
+* 2. Kedd 15:00
+* 3. szerda 8:00 
