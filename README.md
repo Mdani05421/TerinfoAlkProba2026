@@ -19,4 +19,5 @@ Idei első bemutató repozitóriumam.
 ## Kezdés 
 * 1. Hétfő 14:00
 * 2. Kedd 15:00
-* 3. szerda 8:00 
+* 3. Szerda 8:00
+* 4. Csütörtök 9:00  
