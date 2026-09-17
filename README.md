@@ -9,5 +9,5 @@ Idei első bemutató repozitóriumam.
 * Rendszerszervezés
 * Történelem és helyismeret  1
 
-## link 
- *  Hungarian | [Zoltán Siki](https://github.com/zsiki)    
+## Google Earth Link 
+ * https://earth.google.com/web
