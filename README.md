@@ -15,3 +15,13 @@ Idei első bemutató repozitóriumam.
 # Kocsmák 
 * SMAU
 * Sport 
+
+## Tanterem 
+* 4-es terem
+* 8-as terem 
+
+## Kezdés 
+* 1. Hétfő 14:00
+* 2. Kedd 15:00
+* 3. Szerda 8:00
+* 4. Csütörtök 9:00  
