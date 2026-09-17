@@ -12,10 +12,6 @@ Idei első bemutató repozitóriumam.
 ## Google Earth Link 
  * https://earth.google.com/web
 
-# Kocsmák 
-* SMAU
-* Sport 
-
 ## Tanterem 
 * 4-es terem
 * 8-as terem 
