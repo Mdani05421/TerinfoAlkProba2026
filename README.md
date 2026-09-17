@@ -10,4 +10,4 @@ Idei első bemutató repozitóriumam.
 * Történelem és helyismeret  1
 
 ## Google Earth Link 
- * https://earth.google.com/web
+ * https://earth.google.com/web előadás tartani belőle.  
