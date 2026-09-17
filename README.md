@@ -8,3 +8,6 @@ Idei első bemutató repozitóriumam.
 * Geoinformatika 1
 * Rendszerszervezés
 * Történelem és helyismeret  1
+
+## link 
+ *  Hungarian | [Zoltán Siki](https://github.com/zsiki)    
